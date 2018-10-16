@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Github Pages チュートリアル
+description: 自己紹介　　奥田 渚
+github:
+  is_project_page:false
